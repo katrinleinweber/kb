@@ -339,7 +339,7 @@ https://www.springer.com
 (?i)http:\/\/www\.jstor\.org
 https://www.jstor.org
 (?i)http:\/\/(www\.)?amazon\.([a-z]{1,4}[\.a-z]{1,4}]?)
-https://www.amazon.\1
+https://www.amazon.\2
 (?i)http:\/\/venturebeat\.com
 https://venturebeat.com
 (?i)http:\/\/deals\.venturebeat\.com
