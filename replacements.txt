@@ -336,8 +336,8 @@ https://static-content.springer.com
 https://www.springer.com
 (?i)http:\/\/www\.jstor\.org
 https://www.jstor.org
-(?i)http:\/\/(www\.)?amazon\.([a-z]{1,3}(\.[a-z]{1,3})?)
-https://www.amazon.\2
+(?i)http(:\/\/(?:www\.)?amazon\.[a-z]{1,3}(?:\.[a-z]{1,3})?(?:/|$))
+https:\1
 (?i)http:\/\/venturebeat\.com
 https://venturebeat.com
 (?i)http:\/\/deals\.venturebeat\.com
@@ -428,6 +428,8 @@ https://www.flickr.com
 https://www.panoramio.com
 (?i)http:\/\/([^.]{1,}\.)?academia\.edu
 https://\1academia.edu
+(?i)http:\/\/([^.]{1,}\.)?appspot\.com
+https://\1appspot.com
 (?i)http:\/\/archive\.is
 https://archive.is
 (?i)http:\/\/www\.webcitation\.org
