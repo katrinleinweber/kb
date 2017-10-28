@@ -48,8 +48,6 @@ https://live.washingtonpost.com
 https://media.washingtonpost.com
 (?i)http:\/\/web\.archive\.org
 https://web.archive.org
-(?i)http:\/\/www\.webcitation\.org
-https://www.webcitation.org
 (?i)http:\/\/www\.utoronto\.ca
 https://www.utoronto.ca
 (?i)http:\/\/www\.wired\.co\.uk
@@ -432,3 +430,5 @@ https://www.panoramio.com
 https://\1academia.edu
 (?i)http:\/\/archive\.is
 https://archive.is
+(?i)http:\/\/www\.webcitation\.org
+https://www.webcitation.org
