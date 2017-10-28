@@ -60,9 +60,9 @@ https://www.theregister.co.uk
 https://archive.org
 (?i)http[s]?:\/\/wayback\.archive\.org
 https://web.archive.org
-(?i)http:\/\/news\.google\.([a-z]{1,4}[\.a-z]{1,4}]?)
+(?i)http:\/\/news\.google\.([a-z]{1,3}(\.[\.a-z]{1,3})?)
 https://news.google.\1
-(?i)http:\/\/books\.google\.([a-z]{1,4}[\.a-z]{1,4}]?)
+(?i)http:\/\/books\.google\.([a-z]{1,3}(\.[\.a-z]{1,3})?)
 https://books.google.\1
 (?i)http:\/\/www\.eff\.org
 https://www.eff.org
@@ -338,7 +338,7 @@ https://static-content.springer.com
 https://www.springer.com
 (?i)http:\/\/www\.jstor\.org
 https://www.jstor.org
-(?i)http:\/\/(www\.)?amazon\.([a-z]{1,3}[\.a-z]{1,3}]?)
+(?i)http:\/\/(www\.)?amazon\.([a-z]{1,3}(\.[a-z]{1,3})?)
 https://www.amazon.\2
 (?i)http:\/\/venturebeat\.com
 https://venturebeat.com
@@ -428,3 +428,5 @@ https://creativecommons.org
 https://www.flickr.com
 (?i)http:\/\/www\.panoramio\.com
 https://www.panoramio.com
+(?i)http:\/\/([^.]{1,}\.)?academia\.edu
+https://\1academia.edu
