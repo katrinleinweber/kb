@@ -430,3 +430,5 @@ https://www.flickr.com
 https://www.panoramio.com
 (?i)http:\/\/([^.]{1,}\.)?academia\.edu
 https://\1academia.edu
+(?i)http:\/\/archive\.is
+https://archive.is
