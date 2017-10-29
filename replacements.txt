@@ -430,6 +430,14 @@ https://www.panoramio.com
 https://\1academia.edu
 (?i)http:\/\/([^.]{1,}\.)?appspot\.com
 https://\1appspot.com
+(?i)http:\/\/www.fifa.com
+https://www.fifa.com
+(?i)http:\/\/www.humanite.fr
+https://www.humanite.fr
+(?i)http:\/\/www.lequipe.fr
+https://www.lequipe.fr
+http:\/\/(?:www\.)?openparliament.ca
+https://openparliament.ca
 (?i)http:\/\/archive\.is
 https://archive.is
 (?i)http:\/\/www\.webcitation\.org
