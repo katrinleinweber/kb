@@ -58,10 +58,8 @@ https://www.theregister.co.uk
 https://archive.org
 (?i)http[s]?:\/\/wayback\.archive\.org
 https://web.archive.org
-(?i)http:\/\/news\.google\.([a-z]{1,3}(\.[\.a-z]{1,3})?)
-https://news.google.\1
-(?i)http:\/\/books\.google\.([a-z]{1,3}(\.[\.a-z]{1,3})?)
-https://books.google.\1
+(?i)http:\/\/(books|news|scholar)\.google\.([a-z]{1,3}(\.[\.a-z]{1,3})?)
+https://\1.google.\2
 (?i)http:\/\/www\.eff\.org
 https://www.eff.org
 (?i)http:\/\/www\.hrw\.org
