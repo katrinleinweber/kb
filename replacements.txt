@@ -222,8 +222,6 @@ https://musiccanada.com
 https://www.auspop.com.au
 (?i)http:\/\/www\.newrepublic\.com
 https://newrepublic.com
-(?i)http:\/\/www\.pbs\.org
-https://www.pbs.org
 (?i)http:\/\/genius\.com
 https://genius.com
 (?i)http:\/\/www\.hamiltonnews\.com
