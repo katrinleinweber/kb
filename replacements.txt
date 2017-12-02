@@ -438,3 +438,5 @@ https://openparliament.ca
 https://archive.is
 (?i)http:\/\/www\.webcitation\.org
 https://www.webcitation.org
+(?i)http:\/\/(www\.)?basketball\-reference\.com
+https://www.basketball-reference.com
