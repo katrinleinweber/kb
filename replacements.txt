@@ -458,3 +458,7 @@ https://www.thescore.com
 https://www.tsn.ca
 (?i)http:\/\/www\.sbnation\.com
 https://www.sbnation.com
+(?i)http:\/\/geo\-en\.hlipp\.de
+https://geo-en.hlipp.de
+(?i)http:\/\/(www\.)geograph\.org\.uk
+https://www.geograph.org.uk
