@@ -294,8 +294,6 @@ https://np.reddit.com
 https://www.scopus.com
 (?i)http:\/\/www\.tagesschau\.de
 https://www.tagesschau.de
-(?i)http:\/\/query\.nytimes\.com
-https://query.nytimes.com
 (?i)http:\/\/technet\.microsoft\.com
 https://technet.microsoft.com
 (?i)http:\/\/www\.adviserinfo\.sec\.gov
