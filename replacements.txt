@@ -442,8 +442,8 @@ https://www.webcitation.org
 https://www.basketball-reference.com
 (?i)http:\/\/247sports\.com
 https://247sports.com
-(?i)http:\/\/www\.census\.gov
-https://www.census.gov
+(?i)http:\/\/www\.census\.gov\/
+https://www.census.gov\/
 (?i)http:\/\/(www\.)?wisdomlib\.org
 https://www.wisdomlib.org
 (?i)http:\/\/nypost\.com
