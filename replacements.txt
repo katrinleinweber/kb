@@ -414,7 +414,7 @@ https://\1.github.com
 https://www.computerworld.dk
 (?i)http:\/\/ipolitics\.ca
 https://ipolitics.ca
-(?i)http:\/\/(www\.)creativecommons\.org
+(?i)http:\/\/(www\.)?creativecommons\.org
 https://creativecommons.org
 (?i)http:\/\/(www\.)?flickr\.com
 https://www.flickr.com
