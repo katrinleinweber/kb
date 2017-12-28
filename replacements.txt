@@ -460,3 +460,5 @@ https://www.sbnation.com
 https://geo-en.hlipp.de
 (?i)http:\/\/(www\.)geograph\.org\.uk
 https://www.geograph.org.uk
+(?i)http:\/\/pid/.volare/.vorarlberg/.at
+https://pid.volare.vorarlberg.at
