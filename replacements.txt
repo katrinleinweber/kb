@@ -462,3 +462,5 @@ https://geo-en.hlipp.de
 https://www.geograph.org.uk
 (?i)http:\/\/pid/.volare/.vorarlberg/.at
 https://pid.volare.vorarlberg.at
+(?i)http:\/\/igitalcollections.nypl.org
+https://digitalcollections.nypl.org
