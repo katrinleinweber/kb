@@ -462,7 +462,9 @@ https://geo-en.hlipp.de
 https://www.geograph.org.uk
 (?i)http:\/\/pid/.volare/.vorarlberg/.at
 https://pid.volare.vorarlberg.at
-(?i)http:\/\/digitalcollections.nypl.org
+(?i)http:\/\/digitalcollections\.nypl\.org
 https://digitalcollections.nypl.org
-(?i)http:\/\/www.loc.gov
+(?i)http:\/\/www\.loc\.gov
 https://www.loc.gov
+(?i)http:\/\/stats\.iihf\.com\/Hydra\/
+https://reports.iihf.hockey/Hydra/
