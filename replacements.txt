@@ -450,7 +450,7 @@ https://www.tsn.ca
 https://www.sbnation.com
 (?i)http://geo\-en\.hlipp\.de
 https://geo-en.hlipp.de
-(?i)http://(www\.)geograph\.org\.uk
+(?i)http://(www\.)?geograph\.org\.uk
 https://www.geograph.org.uk
 (?i)http://pid\.volare\.vorarlberg\.at
 https://pid.volare.vorarlberg.at
@@ -460,3 +460,13 @@ https://digitalcollections.nypl.org
 https://www.loc.gov
 (?i)http://stats\.iihf\.com/Hydra/
 https://reports.iihf.hockey/Hydra/
+(?i)http://(www\.)?biodiversitylibrary\.org
+https://www.biodiversitylibrary.org
+(?i)http://([^.]{1,})\.pensoft\.net
+https://\1.pensoft.net
+(?i)http://www\.drugs\.com
+https://www.drugs.com
+(?i)http://arxiv\.org
+https://arxiv.org
+(?i)http://(www\.)hockey\-reference\.com
+https://www.hockey-reference.com
