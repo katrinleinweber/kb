@@ -470,5 +470,5 @@ https://www.drugs.com
 https://arxiv.org
 (?i)http://(www\.)hockey\-reference\.com
 https://www.hockey-reference.com
-(?i)http://www\.bbc\.(co\.uk|com)/(sport|iplayer|tv|cbbc|cbeebies|music|tomorrowsworld|arts|makeitdigital|taster)
-https://www.bbc.\1/\2
+(?i)http://www\.bbc\.(co\.uk|com)/(sport|iplayer|tv|cbbc|cbeebies|music|arts)/
+https://www.bbc.\1/\2/
