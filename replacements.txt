@@ -472,3 +472,5 @@ https://arxiv.org
 https://www.hockey-reference.com
 (?i)http://www\.bbc\.(co\.uk|com)/(sport|iplayer|tv|cbbc|music|arts)/
 https://www.bbc.\1/\2/
+(?i)http://www\.nationalobserver\.com
+https://www.nationalobserver.com
