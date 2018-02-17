@@ -297,7 +297,7 @@ https://www.irs.gov
 (?i)http://www\.sec\.gov
 https://www.sec.gov
 (?i)http://dx\.doi\.org
-https://dx.doi.org
+https://doi.org
 (?i)http://earthquake\.usgs\.gov
 https://earthquake.usgs.gov
 (?i)http://alaska\.usgs\.gov
